@@ -1,0 +1,19 @@
+{
+    "name": "endrolephp/env",
+    "description": "PHP Environment Data Manager",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Endrolephp\\Env\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Zate Endrole",
+            "email": "zate.endrole@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
